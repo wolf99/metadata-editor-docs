@@ -7,6 +7,7 @@ If you would like to contribute code, please start by forking the repository, cr
 Even if you are not able to contribute code directly, your ideas and suggestions are valuable. Please feel free to open an issue to report bugs or suggest enhancements. You can also participate in or start discussions to share broader feedback or propose new features.
 
 We ask all contributors to follow international best practices for open source collaboration. This includes:
+
 - Communicating respectfully and constructively;
 - Writing clear, maintainable, and well-documented code;
 - Following the project's coding and documentation standards;
